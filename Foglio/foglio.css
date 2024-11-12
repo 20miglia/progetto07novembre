@@ -1,0 +1,353 @@
+header {
+    margin-top: 1.5%;
+    margin-left: 7%;
+}
+
+
+#icone {
+    display: inline;
+    margin-left: 55%;
+}
+
+
+#hosper {
+    width: 13%;
+}
+
+
+.more {
+    font-size: 120%;
+    padding-right: 1%;
+    color: gray;
+}
+
+#vex {
+    display: inline;
+    border: 1px solid;
+    border-color: black;
+    border-radius: 20px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-right: 1%;
+}
+
+#set {
+    display: inline;
+}
+
+#vox {
+    display: inline;
+    border: 1px solid black;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 50%;
+    background-color: orangered;
+    font-family: 'Lato';
+    color: white;
+}
+
+#met {
+    display: inline;
+}
+
+#contenutoprincipale {
+    
+}
+
+.box {
+    display: flex;
+    flex-direction: row;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 7%;
+}
+
+.articoli1 {
+    width: 70%;
+    text-align: center;
+    margin-right: 1px;
+    border-right: 1px solid gainsboro
+}
+
+.articoli2 {
+    width: 30%;
+    text-align: center;
+}
+
+#division {
+    text-align: left;
+    padding-left: 23px;
+    font-weight: lighter;
+    font-size: 12pt;
+    position: relative;
+    bottom: -8px;
+}
+
+#full {
+    color: gray;
+    word-spacing: 2px;
+    padding-right: 10px;
+}
+
+.contenuti {
+    display: flex;
+    flex-direction: row;
+}
+
+.tride {
+    display: flex;
+    flex-direction: row;
+    border-top: 1px solid gainsboro;
+    padding-top: 40px;
+}
+
+.v20 {
+    border: 0px grey solid;
+    border-radius: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: ghostwhite;
+}
+
+.one {
+    width: 60%;
+    height: 70%;
+}
+
+.inside {
+width: 100%;
+text-align: left;
+padding-left: 20px;
+}
+
+.five {
+    position: relative;
+    top: -15px;
+}
+
+.six {
+    position: relative;
+    top: -30px;
+    color: grey;
+}
+
+.seven {
+    position: relative;
+    top: -30px;
+    color: grey;
+}
+
+#cri {
+    width: 50px;
+}
+
+#two {
+    width: 30px;
+    position: relative;
+    top: -7px;
+}
+
+#volt {
+    font-size: 15pt;
+    height: 2.5em;
+}
+
+.eleven {
+    margin-top: -60px;
+}
+
+#tax {
+    width: 30px;
+    position: relative;
+    top: 8px;
+}
+
+#post {
+    border: 1.5px grey solid;
+    border-radius: 50px;
+    margin-left: 110px;
+    margin-right: 110px;
+    height: 30px;
+}
+
+#etichette {
+    text-align: left;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+.card {
+    word-spacing: 2px;
+    display: inline;
+    border: 0px solid black;
+    border-radius: 20px;
+    padding: 3%;
+    background-color: ghostwhite
+    
+}
+
+.det {
+    display: inline;
+    line-height: 3;
+    word-spacing: 15px;
+}
+
+.fox {
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.ok {
+    display: inline;
+    position: relative;
+    top: -45px;
+    padding-left: 5px;
+}
+
+.step {
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 50px;
+}
+
+.sid {
+    position: relative;
+    top: -55px;
+    padding-left: 60px;
+    color: grey;
+}
+
+.test {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 2%;
+    margin-right: 298px;
+    position: relative;
+    left: 270px;
+    bottom: 100px;
+}
+
+.stop {
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 50px;
+    position: relative;
+    top: -90px;
+}
+
+.trend {
+    display: inline;
+    position: relative;
+    top: -130px;
+    padding-left: 5px;
+}
+
+.wood {
+    position: relative;
+    top: -140px;
+    padding-left: 60px;
+    padding-right: 80px;
+    color: grey;
+}
+
+.lex {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 2%;
+    margin-right: 298px;
+    position: relative;
+    left: 270px;
+    bottom: 210px;
+}
+
+.sud {
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 50px;
+    position: relative;
+    top: -200px;
+}
+
+.land {
+    display: inline;
+    position: relative;
+    top: -240px;
+    padding-left: 5px;
+}
+
+.well {
+    position: relative;
+    top: -250px;
+    padding-left: 60px;
+    padding-right: 70px;
+    color: grey;
+}
+
+.mex {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 2%;
+    margin-right: 298px;
+    position: relative;
+    left: 270px;
+    bottom: 320px;
+}
+
+.officin {
+    text-align: left;
+    position: relative;
+    bottom: 300px;
+    padding-left: 20px;
+}
+
+#eva {
+    border: 1px solid black;
+    border-radius: 100px;
+    width: 30px;
+}
+
+#ris {
+    display: inline;
+    padding-left: 20px;
+    position: relative;
+    bottom: 10px;
+    right: 12px;
+}
+
+#pot {
+    word-spacing: 15px;
+    text-align: left;
+    line-height: 2;
+    word-spacing: 15px;
+    text-align: left;
+    line-height: 2;
+    position: relative;
+    bottom: 260px;
+    color: grey;
+    padding-left: 18px;
+}
+
+#wet {
+    position: relative;
+    top: -25px;
+}
+
+#stick {
+    color: gray;
+    text-decoration: underline;
+}
+
+.v21 {
+    color: gray;
+}
+
+#v22 {
+    color: green;
+}
